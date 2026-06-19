@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="YOUR_IMAGE_URL" width="200" style="border-radius:50%;" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Anusha Wali</h1>
 
 <h3 align="center">
