@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_IMAGE_URL" width="200" style="border-radius:50%;" />
+  <img src="blob:https://web.whatsapp.com/f3db84bf-3937-49e2-88fb-6d8df979e1e3" width="200" style="border-radius:50%;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Anusha Wali</h1>
